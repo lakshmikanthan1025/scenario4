@@ -1,0 +1,18 @@
+public abstract class Southindia extends India{
+void cultivate(){
+System.out.println("Rice and Wheat cultivatio");
+}
+void livingStlye(){
+System.out.println("Average development");
+}
+void speakLanguage(){
+System.out.println("Tamil");
+}
+void eat(){
+System.out.println("Burger");
+}
+void dress(){
+System.out.println("Lives");
+}
+
+}
