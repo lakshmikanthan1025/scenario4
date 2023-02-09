@@ -1,0 +1,22 @@
+public class Tamilnadu extends Southindia{
+void cultivate(){
+System.out.println("Rice and Wheat cultivatio");
+}
+void livingStlye(){
+System.out.println("Average development");
+}
+String capital ="Chennai";
+public static void main(String[]args){
+India in = new Tamilnadu();
+Tamilnadu ta = new Tamilnadu();
+Southindia si = new Tamilnadu();
+{
+System.out.println(in.capital);
+}
+{
+System.out.println(ta.capital);
+}
+si.cultivate();
+si.livingStlye();
+}
+}
