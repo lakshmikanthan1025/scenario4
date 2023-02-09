@@ -1,0 +1,6 @@
+abstract class India{
+abstract void speakLanguage();
+abstract void eat();
+abstract void dress();
+String capital = "New Delhi";
+}
